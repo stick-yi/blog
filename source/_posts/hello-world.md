@@ -1,11 +1,3 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: 易航
- * @Date: 2019-08-28 11:46:49
- * @LastEditors: 易航
- * @LastEditTime: 2019-08-28 15:34:54
- -->
 ---
 title: Hello World
 ---
