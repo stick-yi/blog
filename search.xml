@@ -11,10 +11,16 @@
         <content type="html"><![CDATA[<h2 id="博客搭建"><a href="#博客搭建" class="headerlink" title="博客搭建"></a>博客搭建</h2><p>测试博客搭建情况</p>]]></content>
       
       
+      <categories>
+          
+          <category> 博客搭建 </category>
+          
+      </categories>
+      
       
         <tags>
             
-            <tag> webpack </tag>
+            <tag> hexo部署配置 </tag>
             
         </tags>
       
