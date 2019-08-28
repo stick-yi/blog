@@ -92,3 +92,15 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Expansion: hexo-generator-sitemap
+# generate sitemap.
+# https://github.com/hexojs/hexo-generator-sitemap
+sitemap:
+  path: sitemap.xml
+
+# Expansion: hexo-generator-baidu-sitemap
+# 针对百度进行优化的 sitemap，作者还是建议手动提交至百度会比较好
+# https://github.com/coneycode/hexo-generator-baidu-sitemap
+baidusitemap:
+  path: baidusitemap.xml
